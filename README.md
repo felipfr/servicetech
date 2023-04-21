@@ -2,7 +2,6 @@
 
 [![Logo](./.github/logo_secondary.webp)](https://github.com/felipfr/servicetech)
 
-
 </div>
 
 # ServiceTech
@@ -11,7 +10,11 @@ Aplicativo para criação e acompanhamento de chamados, customizado para o uso n
 
 ## Funcionamento
 
-https://user-images.githubusercontent.com/99354371/233721827-61771798-8479-4170-b970-0fe84413e488.mp4
+<div align="center">
+
+https://user-images.githubusercontent.com/99354371/233722273-f3d89308-ec7a-44e0-98e1-51b7e8c9c7f7.mp4
+
+</div>
 
 ## Aprendizados
 
