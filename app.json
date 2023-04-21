@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "ServiceTech",
+    "slug": "serviceTech",
+    "version": "1.0.0",
+    "owner": "felipefr",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.felipfr.servicetech",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.felipfr.servicetech",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}
