@@ -9,6 +9,10 @@
 
 Aplicativo para criação e acompanhamento de chamados, customizado para o uso no dia a dia na empresa ServiceTech.
 
+## Funcionamento
+
+https://user-images.githubusercontent.com/99354371/233721827-61771798-8479-4170-b970-0fe84413e488.mp4
+
 ## Aprendizados
 
 Neste projeto React Native, eu pude aprender como criar uma interface de usuário atraente e fácil de usar com o Native Base, além de gerenciar as dependências do aplicativo com o Expo Bare Workflow. Também aprendi como usar o Firebase Auth e Firebase Firestore para implementar autenticação de usuário e armazenar os dados dos chamados com segurança na nuvem.
